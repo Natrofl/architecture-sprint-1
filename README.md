@@ -45,3 +45,7 @@
 ### Card
 - **Описание**: Управление карточками мест. Создание новых карточек. Удаление существующих карточек.
 
+## Декомпозиция веб-приложения на Django на микросервисы
+
+[Второе задание: декомпозиция](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=sprint-1_%20part-2_v1.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1PF2RqsTeYbr7b8xk3X6mKbcAXgoZMMUo%26export%3Ddownload)
+
